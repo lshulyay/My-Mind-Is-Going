@@ -1,4 +1,6 @@
 My-Mind-Is-Going
 ================
 
-Unfinished February One Game a Month project.
+February One Game a Month project.
+Tested in Chrome, but very rough due to time constraints.
+Playable at http://liza.io/mymindisgoing
